@@ -1,0 +1,58 @@
+.header {
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.letters {
+  font-size: 2.5rem;
+  color: purple;
+  margin-left: 20px;
+  margin-top: 5px;
+  width: 10%;
+}
+.image {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  left: 120px;
+  bottom: -7px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+}
+
+.menu-left {
+  display: flex;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.menu-right {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+.link {
+  font: 1rem sans-serif;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+hr {
+  color: purple;
+  border: solid 1px;
+  margin-left: 1%;
+  margin-right: 1%;
+}

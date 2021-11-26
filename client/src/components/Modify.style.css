@@ -1,0 +1,54 @@
+.modify-search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modify-alert {
+  margin-top: 20px;
+}
+
+.modify-table1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.modify-table2 {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.modify-table3 {
+  width: 18%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.modify-col {
+  width: 75px;
+}
+
+.modify-col-long {
+  width: 150px;
+}
+
+.modify-col-longer {
+  width: 250px;
+}
+
+.modify-col-id {
+  width: 85px;
+}
+
+.md-bt {
+  margin-top: 10px;
+}
+
+.modify-delete {
+  margin-left: 20px;
+}

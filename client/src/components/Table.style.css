@@ -1,0 +1,47 @@
+.table-container {
+  width: 98%;
+  margin: 5px auto 0px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+table {
+  table-layout: auto;
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+th {
+  padding: 10px;
+  background-color: rgb(234, 211, 240);
+}
+
+th,
+td {
+  border: black solid 1px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(223, 219, 219);
+}
+
+tr:hover {
+  background-color: #ffa;
+}
+
+.th-select-input {
+  cursor: pointer;
+  background-color: rgb(234, 211, 240);
+}
+
+.th-button-td {
+  cursor: pointer;
+  width: auto;
+}
+
+input:checked {
+  width: 30px;
+  height: 30px;
+}

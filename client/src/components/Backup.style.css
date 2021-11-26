@@ -1,0 +1,59 @@
+.backup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.backup-content {
+  display: inline-block;
+}
+
+.db-icon {
+  width: 200px;
+  opacity: 80%;
+}
+.db-text {
+  font-weight: bold;
+  margin-top: -10px;
+}
+
+.arrow-icon {
+  width: 100px;
+  opacity: 80%;
+  transform: rotateY(180deg);
+}
+
+.export-arrow {
+  margin-left: 70px;
+}
+
+.import-arrow {
+  margin-right: 70px;
+}
+
+.backup-import {
+  width: 45%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.backup-export {
+  width: 35%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.backup-db {
+  width: 20%;
+}
+
+.backup-submit {
+  width: 80px;
+  height: auto;
+}
+
+.backup-import-input {
+  margin-left: 20px;
+}

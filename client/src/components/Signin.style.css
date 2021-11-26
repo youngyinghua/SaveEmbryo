@@ -1,0 +1,29 @@
+.signin-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signin-letters {
+  font-size: 2.5rem;
+  color: purple;
+  margin-left: 20px;
+  margin-top: 5px;
+  width: 10%;
+}
+.signin-image {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  left: -4px;
+  bottom: -7px;
+}
+
+.signin-content {
+  margin-top: 2%;
+}
+
+.signin-button {
+  margin-top: 30px;
+  width: auto;
+}

@@ -1,0 +1,36 @@
+.ex-search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ex-title {
+  font-size: 20px;
+  color: blueviolet;
+}
+
+.ex-search-label {
+  margin: 5px;
+}
+
+.ex-search-input {
+  width: 80px;
+}
+
+.ex-divide {
+  border: dashed 1px;
+  margin-top: 10px;
+}
+
+.ex-new-expireday {
+  width: 60px;
+}
+
+.ex-new-extendtimes {
+  width: 35px;
+}
+
+.ex-alert {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
